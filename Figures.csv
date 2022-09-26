@@ -1,0 +1,37 @@
+﻿C02084V02518,Type of Farm,TLIST(A1),Year,STATISTIC CODE,Statistic,UNIT,VALUE
+-,All farms,2013,2013,FSA07C01,Average Farm Size,Thousand,32.5
+-,All farms,2013,2013,FSA07C02,Average Farm Economic Size,Euro,35912
+-,All farms,2016,2016,FSA07C01,Average Farm Size,Thousand,32.4
+-,All farms,2016,2016,FSA07C02,Average Farm Economic Size,Euro,45855
+1,Specialist tillage,2013,2013,FSA07C01,Average Farm Size,Thousand,56.8
+1,Specialist tillage,2013,2013,FSA07C02,Average Farm Economic Size,Euro,86271
+1,Specialist tillage,2016,2016,FSA07C01,Average Farm Size,Thousand,58.6
+1,Specialist tillage,2016,2016,FSA07C02,Average Farm Economic Size,Euro,96941
+2,Specialist dairying,2013,2013,FSA07C01,Average Farm Size,Thousand,55.9
+2,Specialist dairying,2013,2013,FSA07C02,Average Farm Economic Size,Euro,134536
+2,Specialist dairying,2016,2016,FSA07C01,Average Farm Size,Thousand,59.2
+2,Specialist dairying,2016,2016,FSA07C02,Average Farm Economic Size,Euro,180743
+3,Specialist beef production,2013,2013,FSA07C01,Average Farm Size,Thousand,27
+3,Specialist beef production,2013,2013,FSA07C02,Average Farm Economic Size,Euro,15493
+3,Specialist beef production,2016,2016,FSA07C01,Average Farm Size,Thousand,26.5
+3,Specialist beef production,2016,2016,FSA07C02,Average Farm Economic Size,Euro,19784
+4,Specialist sheep,2013,2013,FSA07C01,Average Farm Size,Thousand,29.6
+4,Specialist sheep,2013,2013,FSA07C02,Average Farm Economic Size,Euro,13314
+4,Specialist sheep,2016,2016,FSA07C01,Average Farm Size,Thousand,29
+4,Specialist sheep,2016,2016,FSA07C02,Average Farm Economic Size,Euro,14276
+5,Mixed grazing livestock,2013,2013,FSA07C01,Average Farm Size,Thousand,36.8
+5,Mixed grazing livestock,2013,2013,FSA07C02,Average Farm Economic Size,Euro,30797
+5,Mixed grazing livestock,2016,2016,FSA07C01,Average Farm Size,Thousand,36.8
+5,Mixed grazing livestock,2016,2016,FSA07C02,Average Farm Economic Size,Euro,36496
+6,Mixed crops and livestock,2013,2013,FSA07C01,Average Farm Size,Thousand,58.7
+6,Mixed crops and livestock,2013,2013,FSA07C02,Average Farm Economic Size,Euro,53795
+6,Mixed crops and livestock,2016,2016,FSA07C01,Average Farm Size,Thousand,58.7
+6,Mixed crops and livestock,2016,2016,FSA07C02,Average Farm Economic Size,Euro,72542
+65,Mixed field crops,2013,2013,FSA07C01,Average Farm Size,Thousand,27.3
+65,Mixed field crops,2013,2013,FSA07C02,Average Farm Economic Size,Euro,5219
+65,Mixed field crops,2016,2016,FSA07C01,Average Farm Size,Thousand,15.4
+65,Mixed field crops,2016,2016,FSA07C02,Average Farm Economic Size,Euro,6693
+7,Other,2013,2013,FSA07C01,Average Farm Size,Thousand,16
+7,Other,2013,2013,FSA07C02,Average Farm Economic Size,Euro,355364
+7,Other,2016,2016,FSA07C01,Average Farm Size,Thousand,25.4
+7,Other,2016,2016,FSA07C02,Average Farm Economic Size,Euro,406150

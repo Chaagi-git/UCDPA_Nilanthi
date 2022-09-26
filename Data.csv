@@ -1,0 +1,141 @@
+﻿STATISTIC CODE,Statistic,C02122V02563,Farm Size,C02196V02652,Region,TLIST(A1),Year,UNIT,VALUE
+FSA01,Number of Farms,8,< 10 ha,-,State,2013,2013,Thousand,25.4
+FSA01,Number of Farms,8,< 10 ha,-,State,2016,2016,Thousand,26.2
+FSA01,Number of Farms,8,< 10 ha,IE1,"Border, Midland and Western",2013,2013,Thousand,15.6
+FSA01,Number of Farms,8,< 10 ha,IE1,"Border, Midland and Western",2016,2016,Thousand,15.8
+FSA01,Number of Farms,8,< 10 ha,IE11,Border,2013,2013,Thousand,6.5
+FSA01,Number of Farms,8,< 10 ha,IE11,Border,2016,2016,Thousand,6.6
+FSA01,Number of Farms,8,< 10 ha,IE12,Midland,2013,2013,Thousand,2
+FSA01,Number of Farms,8,< 10 ha,IE12,Midland,2016,2016,Thousand,2.1
+FSA01,Number of Farms,8,< 10 ha,IE13,West,2013,2013,Thousand,7
+FSA01,Number of Farms,8,< 10 ha,IE13,West,2016,2016,Thousand,7.1
+FSA01,Number of Farms,8,< 10 ha,IE2,Southern and Eastern,2013,2013,Thousand,9.8
+FSA01,Number of Farms,8,< 10 ha,IE2,Southern and Eastern,2016,2016,Thousand,10.4
+FSA01,Number of Farms,8,< 10 ha,5000,Dublin plus Mid East,2013,2013,Thousand,1.9
+FSA01,Number of Farms,8,< 10 ha,5000,Dublin plus Mid East,2016,2016,Thousand,1.9
+FSA01,Number of Farms,8,< 10 ha,IE23,Mid-West,2013,2013,Thousand,2.2
+FSA01,Number of Farms,8,< 10 ha,IE23,Mid-West,2016,2016,Thousand,2.3
+FSA01,Number of Farms,8,< 10 ha,IE24,South-East,2013,2013,Thousand,2.3
+FSA01,Number of Farms,8,< 10 ha,IE24,South-East,2016,2016,Thousand,2.6
+FSA01,Number of Farms,8,< 10 ha,IE25,South-West,2013,2013,Thousand,3.4
+FSA01,Number of Farms,8,< 10 ha,IE25,South-West,2016,2016,Thousand,3.6
+FSA01,Number of Farms,3,10 - < 20 ha,-,State,2013,2013,Thousand,34.2
+FSA01,Number of Farms,3,10 - < 20 ha,-,State,2016,2016,Thousand,33.6
+FSA01,Number of Farms,3,10 - < 20 ha,IE1,"Border, Midland and Western",2013,2013,Thousand,21.3
+FSA01,Number of Farms,3,10 - < 20 ha,IE1,"Border, Midland and Western",2016,2016,Thousand,20.6
+FSA01,Number of Farms,3,10 - < 20 ha,IE11,Border,2013,2013,Thousand,8.2
+FSA01,Number of Farms,3,10 - < 20 ha,IE11,Border,2016,2016,Thousand,8
+FSA01,Number of Farms,3,10 - < 20 ha,IE12,Midland,2013,2013,Thousand,2.8
+FSA01,Number of Farms,3,10 - < 20 ha,IE12,Midland,2016,2016,Thousand,2.8
+FSA01,Number of Farms,3,10 - < 20 ha,IE13,West,2013,2013,Thousand,10.2
+FSA01,Number of Farms,3,10 - < 20 ha,IE13,West,2016,2016,Thousand,9.9
+FSA01,Number of Farms,3,10 - < 20 ha,IE2,Southern and Eastern,2013,2013,Thousand,12.9
+FSA01,Number of Farms,3,10 - < 20 ha,IE2,Southern and Eastern,2016,2016,Thousand,12.9
+FSA01,Number of Farms,3,10 - < 20 ha,5000,Dublin plus Mid East,2013,2013,Thousand,2.1
+FSA01,Number of Farms,3,10 - < 20 ha,5000,Dublin plus Mid East,2016,2016,Thousand,2.2
+FSA01,Number of Farms,3,10 - < 20 ha,IE23,Mid-West,2013,2013,Thousand,3.5
+FSA01,Number of Farms,3,10 - < 20 ha,IE23,Mid-West,2016,2016,Thousand,3.4
+FSA01,Number of Farms,3,10 - < 20 ha,IE24,South-East,2013,2013,Thousand,2.8
+FSA01,Number of Farms,3,10 - < 20 ha,IE24,South-East,2016,2016,Thousand,2.7
+FSA01,Number of Farms,3,10 - < 20 ha,IE25,South-West,2013,2013,Thousand,4.6
+FSA01,Number of Farms,3,10 - < 20 ha,IE25,South-West,2016,2016,Thousand,4.6
+FSA01,Number of Farms,4,20 - < 30 ha,-,State,2013,2013,Thousand,24.6
+FSA01,Number of Farms,4,20 - < 30 ha,-,State,2016,2016,Thousand,24.3
+FSA01,Number of Farms,4,20 - < 30 ha,IE1,"Border, Midland and Western",2013,2013,Thousand,13.7
+FSA01,Number of Farms,4,20 - < 30 ha,IE1,"Border, Midland and Western",2016,2016,Thousand,13.6
+FSA01,Number of Farms,4,20 - < 30 ha,IE11,Border,2013,2013,Thousand,5.2
+FSA01,Number of Farms,4,20 - < 30 ha,IE11,Border,2016,2016,Thousand,5.3
+FSA01,Number of Farms,4,20 - < 30 ha,IE12,Midland,2013,2013,Thousand,2.3
+FSA01,Number of Farms,4,20 - < 30 ha,IE12,Midland,2016,2016,Thousand,2.2
+FSA01,Number of Farms,4,20 - < 30 ha,IE13,West,2013,2013,Thousand,6.2
+FSA01,Number of Farms,4,20 - < 30 ha,IE13,West,2016,2016,Thousand,6.1
+FSA01,Number of Farms,4,20 - < 30 ha,IE2,Southern and Eastern,2013,2013,Thousand,10.8
+FSA01,Number of Farms,4,20 - < 30 ha,IE2,Southern and Eastern,2016,2016,Thousand,10.7
+FSA01,Number of Farms,4,20 - < 30 ha,5000,Dublin plus Mid East,2013,2013,Thousand,1.5
+FSA01,Number of Farms,4,20 - < 30 ha,5000,Dublin plus Mid East,2016,2016,Thousand,1.4
+FSA01,Number of Farms,4,20 - < 30 ha,IE23,Mid-West,2013,2013,Thousand,3
+FSA01,Number of Farms,4,20 - < 30 ha,IE23,Mid-West,2016,2016,Thousand,3
+FSA01,Number of Farms,4,20 - < 30 ha,IE24,South-East,2013,2013,Thousand,2.4
+FSA01,Number of Farms,4,20 - < 30 ha,IE24,South-East,2016,2016,Thousand,2.4
+FSA01,Number of Farms,4,20 - < 30 ha,IE25,South-West,2013,2013,Thousand,4
+FSA01,Number of Farms,4,20 - < 30 ha,IE25,South-West,2016,2016,Thousand,3.9
+FSA01,Number of Farms,5,30 - < 50 ha,-,State,2013,2013,Thousand,30.3
+FSA01,Number of Farms,5,30 - < 50 ha,-,State,2016,2016,Thousand,28.7
+FSA01,Number of Farms,5,30 - < 50 ha,IE1,"Border, Midland and Western",2013,2013,Thousand,14.4
+FSA01,Number of Farms,5,30 - < 50 ha,IE1,"Border, Midland and Western",2016,2016,Thousand,13.9
+FSA01,Number of Farms,5,30 - < 50 ha,IE11,Border,2013,2013,Thousand,5.7
+FSA01,Number of Farms,5,30 - < 50 ha,IE11,Border,2016,2016,Thousand,5.4
+FSA01,Number of Farms,5,30 - < 50 ha,IE12,Midland,2013,2013,Thousand,3
+FSA01,Number of Farms,5,30 - < 50 ha,IE12,Midland,2016,2016,Thousand,2.9
+FSA01,Number of Farms,5,30 - < 50 ha,IE13,West,2013,2013,Thousand,5.8
+FSA01,Number of Farms,5,30 - < 50 ha,IE13,West,2016,2016,Thousand,5.6
+FSA01,Number of Farms,5,30 - < 50 ha,IE2,Southern and Eastern,2013,2013,Thousand,15.9
+FSA01,Number of Farms,5,30 - < 50 ha,IE2,Southern and Eastern,2016,2016,Thousand,14.9
+FSA01,Number of Farms,5,30 - < 50 ha,5000,Dublin plus Mid East,2013,2013,Thousand,2
+FSA01,Number of Farms,5,30 - < 50 ha,5000,Dublin plus Mid East,2016,2016,Thousand,1.9
+FSA01,Number of Farms,5,30 - < 50 ha,IE23,Mid-West,2013,2013,Thousand,4.2
+FSA01,Number of Farms,5,30 - < 50 ha,IE23,Mid-West,2016,2016,Thousand,4
+FSA01,Number of Farms,5,30 - < 50 ha,IE24,South-East,2013,2013,Thousand,4
+FSA01,Number of Farms,5,30 - < 50 ha,IE24,South-East,2016,2016,Thousand,3.7
+FSA01,Number of Farms,5,30 - < 50 ha,IE25,South-West,2013,2013,Thousand,5.6
+FSA01,Number of Farms,5,30 - < 50 ha,IE25,South-West,2016,2016,Thousand,5.3
+FSA01,Number of Farms,6,50 - < 100 ha,-,State,2013,2013,Thousand,20.3
+FSA01,Number of Farms,6,50 - < 100 ha,-,State,2016,2016,Thousand,19.9
+FSA01,Number of Farms,6,50 - < 100 ha,IE1,"Border, Midland and Western",2013,2013,Thousand,7.2
+FSA01,Number of Farms,6,50 - < 100 ha,IE1,"Border, Midland and Western",2016,2016,Thousand,7.2
+FSA01,Number of Farms,6,50 - < 100 ha,IE11,Border,2013,2013,Thousand,2.6
+FSA01,Number of Farms,6,50 - < 100 ha,IE11,Border,2016,2016,Thousand,2.6
+FSA01,Number of Farms,6,50 - < 100 ha,IE12,Midland,2013,2013,Thousand,2.3
+FSA01,Number of Farms,6,50 - < 100 ha,IE12,Midland,2016,2016,Thousand,2.2
+FSA01,Number of Farms,6,50 - < 100 ha,IE13,West,2013,2013,Thousand,2.4
+FSA01,Number of Farms,6,50 - < 100 ha,IE13,West,2016,2016,Thousand,2.4
+FSA01,Number of Farms,6,50 - < 100 ha,IE2,Southern and Eastern,2013,2013,Thousand,13.1
+FSA01,Number of Farms,6,50 - < 100 ha,IE2,Southern and Eastern,2016,2016,Thousand,12.6
+FSA01,Number of Farms,6,50 - < 100 ha,5000,Dublin plus Mid East,2013,2013,Thousand,2
+FSA01,Number of Farms,6,50 - < 100 ha,5000,Dublin plus Mid East,2016,2016,Thousand,2
+FSA01,Number of Farms,6,50 - < 100 ha,IE23,Mid-West,2013,2013,Thousand,2.8
+FSA01,Number of Farms,6,50 - < 100 ha,IE23,Mid-West,2016,2016,Thousand,2.8
+FSA01,Number of Farms,6,50 - < 100 ha,IE24,South-East,2013,2013,Thousand,4.1
+FSA01,Number of Farms,6,50 - < 100 ha,IE24,South-East,2016,2016,Thousand,4
+FSA01,Number of Farms,6,50 - < 100 ha,IE25,South-West,2013,2013,Thousand,4.1
+FSA01,Number of Farms,6,50 - < 100 ha,IE25,South-West,2016,2016,Thousand,3.9
+FSA01,Number of Farms,7,>= 100 ha,-,State,2013,2013,Thousand,4.7
+FSA01,Number of Farms,7,>= 100 ha,-,State,2016,2016,Thousand,4.9
+FSA01,Number of Farms,7,>= 100 ha,IE1,"Border, Midland and Western",2013,2013,Thousand,1.4
+FSA01,Number of Farms,7,>= 100 ha,IE1,"Border, Midland and Western",2016,2016,Thousand,1.4
+FSA01,Number of Farms,7,>= 100 ha,IE11,Border,2013,2013,Thousand,0.5
+FSA01,Number of Farms,7,>= 100 ha,IE11,Border,2016,2016,Thousand,0.5
+FSA01,Number of Farms,7,>= 100 ha,IE12,Midland,2013,2013,Thousand,0.5
+FSA01,Number of Farms,7,>= 100 ha,IE12,Midland,2016,2016,Thousand,0.5
+FSA01,Number of Farms,7,>= 100 ha,IE13,West,2013,2013,Thousand,0.4
+FSA01,Number of Farms,7,>= 100 ha,IE13,West,2016,2016,Thousand,0.4
+FSA01,Number of Farms,7,>= 100 ha,IE2,Southern and Eastern,2013,2013,Thousand,3.4
+FSA01,Number of Farms,7,>= 100 ha,IE2,Southern and Eastern,2016,2016,Thousand,3.4
+FSA01,Number of Farms,7,>= 100 ha,5000,Dublin plus Mid East,2013,2013,Thousand,0.9
+FSA01,Number of Farms,7,>= 100 ha,5000,Dublin plus Mid East,2016,2016,Thousand,0.9
+FSA01,Number of Farms,7,>= 100 ha,IE23,Mid-West,2013,2013,Thousand,0.5
+FSA01,Number of Farms,7,>= 100 ha,IE23,Mid-West,2016,2016,Thousand,0.5
+FSA01,Number of Farms,7,>= 100 ha,IE24,South-East,2013,2013,Thousand,1.1
+FSA01,Number of Farms,7,>= 100 ha,IE24,South-East,2016,2016,Thousand,1.1
+FSA01,Number of Farms,7,>= 100 ha,IE25,South-West,2013,2013,Thousand,0.9
+FSA01,Number of Farms,7,>= 100 ha,IE25,South-West,2016,2016,Thousand,1
+FSA01,Number of Farms,-,All farms,-,State,2013,2013,Thousand,139.6
+FSA01,Number of Farms,-,All farms,-,State,2016,2016,Thousand,137.5
+FSA01,Number of Farms,-,All farms,IE1,"Border, Midland and Western",2013,2013,Thousand,73.6
+FSA01,Number of Farms,-,All farms,IE1,"Border, Midland and Western",2016,2016,Thousand,72.5
+FSA01,Number of Farms,-,All farms,IE11,Border,2013,2013,Thousand,28.7
+FSA01,Number of Farms,-,All farms,IE11,Border,2016,2016,Thousand,28.4
+FSA01,Number of Farms,-,All farms,IE12,Midland,2013,2013,Thousand,12.9
+FSA01,Number of Farms,-,All farms,IE12,Midland,2016,2016,Thousand,12.8
+FSA01,Number of Farms,-,All farms,IE13,West,2013,2013,Thousand,32
+FSA01,Number of Farms,-,All farms,IE13,West,2016,2016,Thousand,31.4
+FSA01,Number of Farms,-,All farms,IE2,Southern and Eastern,2013,2013,Thousand,66
+FSA01,Number of Farms,-,All farms,IE2,Southern and Eastern,2016,2016,Thousand,65
+FSA01,Number of Farms,-,All farms,5000,Dublin plus Mid East,2013,2013,Thousand,10.5
+FSA01,Number of Farms,-,All farms,5000,Dublin plus Mid East,2016,2016,Thousand,10.3
+FSA01,Number of Farms,-,All farms,IE23,Mid-West,2013,2013,Thousand,16.2
+FSA01,Number of Farms,-,All farms,IE23,Mid-West,2016,2016,Thousand,15.9
+FSA01,Number of Farms,-,All farms,IE24,South-East,2013,2013,Thousand,16.7
+FSA01,Number of Farms,-,All farms,IE24,South-East,2016,2016,Thousand,16.5
+FSA01,Number of Farms,-,All farms,IE25,South-West,2013,2013,Thousand,22.6
+FSA01,Number of Farms,-,All farms,IE25,South-West,2016,2016,Thousand,22.3
